@@ -88,3 +88,8 @@ Trainable params: 5,902,151
 Non-trainable params: 3,712
 ____________________________
 ```
+
+Example:-
+
+![Screenshot from 2019-07-27 20-40-57](https://user-images.githubusercontent.com/36365194/61996165-e425ee80-b0ae-11e9-9120-9eb1be0f9c96.png)
+
