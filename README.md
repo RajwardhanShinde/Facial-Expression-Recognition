@@ -3,9 +3,10 @@
 It is based on competition organised by kaggle in 2013:-<br>
 https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/leaderboard
 
-Top accuracies in that competitions were :- 71%<br>
-                                            69%<br>
-                                            68%<br>
+Top accuracies in that competitions were :- <br>
+71%<br>
+69%<br>
+68%<br>
                     
                    
 Here we have got 65% accuracy:- <br>
