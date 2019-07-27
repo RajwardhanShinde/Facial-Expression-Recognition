@@ -1,21 +1,21 @@
 # Facial Expression Recognition
 
-It is based on competition organised by kaggle in 2013:-
+It is based on competition organised by kaggle in 2013:-<br>
 https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/leaderboard
 
-Top accuracies in that competitions were :- 71%
-                                            69%
-                                            68%
+Top accuracies in that competitions were :- 71%<br>
+                                            69%<br>
+                                            68%<br>
                     
                    
-Here we have got :- 
+Here we have got 65% accuracy:- <br>
 
 ```
 Loss: 0.9379754525168954
 Accuracy: 0.6540819169851225
 ```
 
-Architecture that we have used is :-
+Architecture that we have used is :-<br>
 
 ```
 _________________________________________________________________
